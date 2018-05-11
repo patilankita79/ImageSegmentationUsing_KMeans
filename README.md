@@ -10,7 +10,7 @@
 
 ### Input
 
-Image segmentation algorithm is run on 3 images which can be found <a href="">here</a>
+Image segmentation algorithm is run on 3 images which can be found <a href="https://github.com/patilankita79/ImageSegmentationUsing_KMeans/tree/master/ImageSegmentation/Input">here</a>
 
 ### Parameters
 
