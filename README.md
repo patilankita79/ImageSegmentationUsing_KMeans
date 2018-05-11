@@ -33,7 +33,7 @@ It is upto you to select the best value of the number of clusters and any other 
 
 ### Output
 
-Output is a set of clustered images and stored in a folder named *clusteredImages * which can be found <a href="">here</a>
+Output is a set of clustered images and stored in a folder named **clusteredImages** which can be found <a href="https://github.com/patilankita79/ImageSegmentationUsing_KMeans/tree/master/ImageSegmentation/clusteredImages">here</a>
 
 ### References
 
