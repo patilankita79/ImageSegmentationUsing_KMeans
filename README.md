@@ -3,6 +3,13 @@
 - To reduce the number of color points in an image using supervised learning. This application is also referred to as image segmentation or color quantization
 - K-means algorithm is used for image segmentaion
 
+## Team Members
+
+- Ankita Patil
+- Abhilash Gudasi
+
+<hr>
+
 ### Tools, libraries used
 
 - Language used: Python
